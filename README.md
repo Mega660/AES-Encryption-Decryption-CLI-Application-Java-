@@ -13,7 +13,7 @@ A secure Command-Line Interface (CLI) application built in Java that performs AE
 * Exception handling for security errors
 * Interactive CLI menu system
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Java
 * Java Cryptography Architecture (JCA)
@@ -58,7 +58,6 @@ Enter secret key (16/24/32 chars): 1234567890123456
 
 Encrypted: m3k9YV9u0ZpF5X2Wz...
 
-
 ## Future Improvements
 
 * Add GUI version (JavaFX or Swing)
@@ -66,7 +65,6 @@ Encrypted: m3k9YV9u0ZpF5X2Wz...
 * Implement AES with CBC mode and IV
 * Add password-based key derivation (PBKDF2)
 * Store encrypted logs securely
-
 
 Author
 Developed by Amenyo Richard
